@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+build/
+dist/
+*.egg-info/
+.idea/
+# If you want to share some settings, you can instead ignore only specific files:
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries/
